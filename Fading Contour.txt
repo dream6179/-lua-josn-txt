@@ -1,0 +1,13 @@
+{
+	"fc_options_menu_title" : "輪廓消退",
+	"fc_options_menu_desc"  : "更改消退設置",
+
+	"fc_options_fade_from_title" : "淡出時間",
+	"fc_options_fade_from_desc"  : "當漸弱過程開始時，相對於標記持續時間",
+
+	"fc_options_fade_method_title" : "漸弱速度",
+	"fc_options_fade_method_desc"  : "",
+	
+	"fc_options_multi_fade_method_a" : "線性",
+	"fc_options_multi_fade_method_b" : "平方根",
+}

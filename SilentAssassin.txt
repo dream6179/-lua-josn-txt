@@ -1,0 +1,17 @@
+{
+    "silent_assassin_title" : "沉默殺手",
+    "silent_assassin_desc" : "沉默殺手選項",
+    "sa_num_pagers" : "無線電數量",
+    "sa_num_pagers_desc" : "玩家全部允許的無線電數量",
+    "sa_num_pagers_per_player" : "每個玩家的數量",
+    "sa_num_pagers_per_player_desc" : "單個玩家可以回答的無線電數量",
+    "sa_pagers_0" : "0",
+    "sa_pagers_1" : "1",
+    "sa_pagers_2" : "2",
+    "sa_pagers_3" : "3",
+    "sa_pagers_4" : "4",
+    "sa_enabled_title" : "啟用沉默殺手",
+    "sa_enabled_desc" : "啟用沉默殺手模組",
+    "sa_kill_pager_enabled_title" : "偷偷殺人的沒有無線電",
+    "sa_kill_pager_enabled_desc" : "如果設置，沒有無線電發出聲音，當一個無聊的守衛被偷偷的殺死"
+}

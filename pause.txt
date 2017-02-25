@@ -1,0 +1,7 @@
+{
+	"m_pause": "暫停遊戲",
+	"m_pause_desc": "暫停所有玩家的遊戲.",
+	"m_unpause": "解除暫停",
+	"m_unpause_desc": "恢復所有玩家的遊戲.",
+	"m_pause_timer": "Pausing the game in $time seconds..."
+	}

@@ -1,0 +1,8 @@
+{
+	"gm_options_custom_waypoints_menu_title" : "自定義航點",
+	"gm_options_custom_waypoints_menu_desc" : "更改可自定義航路點的設置",
+	"gm_options_custom_waypoints_place" : "放置航點",
+	"gm_options_custom_waypoints_remove" : "刪除航點",
+	"gm_options_custom_waypoints_distance_title" : "顯示航點上的距離",
+	"gm_options_custom_waypoints_distance_desc" : "顯示您距離自定義航路點有多遠",
+}

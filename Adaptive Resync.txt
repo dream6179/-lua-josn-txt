@@ -1,0 +1,10 @@
+{
+	"ars_options_menu_title" : "自適應重新同步",
+	"ars_options_menu_desc"  : "這個mod有助於減少人物位置（主機/客戶端）之間的差距。",
+
+	"ars_options_pct_speedup_focused_units_title" : "加快聚焦單位的％",
+	"ars_options_pct_speedup_focused_units_desc"  : "為了防止瞄準困難，接近螢幕中心的敵人的速度加快\n（獨立地，榴彈發射器總是獲得100％）。",
+
+	"ars_options_hq_pos_sync_title" : "HQ位置同步",
+	"ars_options_hq_pos_sync_desc"  : "您自己的位置將被更頻繁地同步。",
+}

@@ -1,0 +1,24 @@
+{
+	"twoclicksafehouse_oldsafehouse" : "舊安全屋"
+
+	"twoclicksafehouse_menu_title" : "雙擊安全屋",
+	"twoclicksafehouse_menu_desc" : "配置雙擊安全室選項",
+
+	"tog_twoclicksafehouse_openu110safehouseguiinstead_title" : "打開新安全屋的介面",
+	"tog_twoclicksafehouse_openu110safehouseguiinstead_desc" : "確定是否應顯示新安全屋的介面，而不是直接加載到其中",
+
+	"mul_twoclicksafehouse_defaultselection_title" : "預設選擇",
+	"mul_twoclicksafehouse_defaultselection_desc" : "確定安全室確認提示的預設選項，或者如果啟用了“無確認提示”的操作",
+
+	"tog_twoclicksafehouse_noconfirmation_title" : "無確認提示",
+	"tog_twoclicksafehouse_noconfirmation_desc" : "確定是否應顯示確認提示。 如果選擇啟用將使用預設選項",
+
+	"btn_twoclicksafehouse_reset_title" : "重置為預設值",
+	"btn_twoclicksafehouse_reset_desc" : "將所有的選項重置為預設值",
+
+	"dlg_twoclicksafehouse_obsoletemoddeletionsuccessful_title" : "已過時模組刪除成功",
+	"dlg_twoclicksafehouse_obsoletemoddeletionsuccessful_body" : "[Message issued by the Two-Click Safe House mod]\n\nInfo: Successfully deleted the obsolete mod at $path, no further action is necessary.\n\nYou will not see this dialog again.",
+
+	"dlg_twoclicksafehouse_obsoletemoddeletionfailure_title" : "過時模組刪除失敗",
+	"dlg_twoclicksafehouse_obsoletemoddeletionfailure_body" : "[Message issued by the Two-Click Safe House mod]\n\nError: Failed to delete the obsolete mod at $path, please do so manually to avoid mod conflicts.\n\nYou will be nagged until the obsolete mod has been removed."
+}

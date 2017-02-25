@@ -1,0 +1,27 @@
+{
+	"fs_options_menu_title" : "全速群",
+	"fs_options_menu_desc"  : "讓遊戲回歸難度",
+
+	"fs_options_max_tasks_per_frame_title" : "限制每幀執行的任務",
+	"fs_options_max_tasks_per_frame_desc" : "預設值為50，特殊值0表示無限制，如果您有性能問題，請修改。 低值懲罰警察的反應.",
+
+	"fs_options_character_positioning_title" : "人物定位",
+	"fs_options_character_positioning_desc" : "報警結束後，通過降低人物的垂直定位的質量可以獲得性能。 需要重新啟動起動器（而不是遊戲），以便將此更改考慮在內.",
+	"fs_options_character_positioning_multi_a" : "快速",
+	"fs_options_character_positioning_multi_b" : "均衡",
+	"fs_options_character_positioning_multi_c" : "質量",
+
+	"fs_options_important_cops_title" : "快節奏的遊戲",
+	"fs_options_important_cops_desc" : "警告！ 雖然這個mod不會增加難度超出了OVERKILL設計，這個選項實際上是做的。刪除每個警察的行動之間的暫停（CPU密集型）.",
+
+	"fs_options_assault_behavior_title" : "攻擊行為",
+	"fs_options_assault_behavior_desc" : "警告！ 雖然這個mod不會超出OVERKILL設計的難度，但這個選項實際上是這樣。定義分配給攻擊組的警察的行為.",
+	"fs_options_assault_behavior_multi_a" : "謹慎",
+	"fs_options_assault_behavior_multi_b" : "混合",
+	"fs_options_assault_behavior_multi_c" : "激進",
+
+	"fs_mutator_bigparty_name" : "大派對",
+	"fs_mutator_bigparty_desc" : "增加警察產生水平（從60到330警察）",
+	"fs_mutator_bigparty_longdesc" : "",
+	"fs_menu_mutator_insanity_level" : "瘋狂等級",
+}

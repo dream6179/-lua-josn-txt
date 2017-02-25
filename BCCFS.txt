@@ -1,0 +1,14 @@
+{
+	"bccfs_menu_title" : "[BCCFS] 貝恩製毒",
+	"bccfs_menu_desc" : "貝恩製毒沒用 選項",
+	"bccfs_show_chat_message" : "聊天欄裡面顯示材料",
+	"bccfs_show_chat_message_desc" : "[BCCFS] 聊天欄裡面顯示正確材料",
+	"bccfs_show_waypoint" : "標記正確容器",
+	"bccfs_show_waypoint_desc" : "添加指示到正確容器",
+	"bccfs_rh_title" : "紅色",
+	"bccfs_rh_desc" : "紅色的量，或顏色的色調",
+	"bccfs_gs_title" : "綠色",
+	"bccfs_gs_desc" : "綠色的量，或顏色的飽和度",
+	"bccfs_bv_title" : "藍色",
+	"bccfs_bv_desc" : "藍色的數量，或顏色的值"
+}

@@ -1,0 +1,30 @@
+{
+	"saveequipment_menu_title" : "保存設備選項",
+	"saveequipment_menu_desc" : "保存設備的選單",
+	"saveequipment_help_title" : "幫助",
+	"saveequipment_help_desc" : "模組功能和選項的幫助.",
+	"saveequipment_enable_medic_downs_title" : "倒下次數",
+	"saveequipment_enable_medic_downs_desc" : "允許使用醫療箱的跌倒次數",
+	
+	"saveequipment_enable_medic_downs_option_0" : "0 次 (總是)",
+	"saveequipment_enable_medic_downs_option_1" : "1 次",
+	"saveequipment_enable_medic_downs_option_2" : "2 次",
+	"saveequipment_enable_medic_downs_option_3" : "3 次",
+	"saveequipment_enable_medic_downs_option_4" : "4 次 (技能的)",
+	
+	"saveequipment_subtitle_medic_enable" : "[DoctorBag] allowed when:",
+	
+	"saveequipment_help_popup_title" : "保存設備的幫助",
+	"saveequipment_help_popup_message" : "這個模組會阻止你太早使用醫療箱。 如果你是主機，你的隊友似乎太早使用醫生袋，他們將被以短暫的時間來取消他們的互動.",
+	"saveequipment_help_popup_back" : "回去",
+	
+	"saveequipment_try_hint_medic_0" : "試圖在被擊倒之前使用醫療箱",
+	"saveequipment_try_hint_medic_1" : "次.",
+	"saveequipment_try_message_medic_0" : "你試圖在被擊倒之前使用醫療箱",
+	"saveequipment_try_message_medic_1" : "次.",
+	
+	"saveequipment_join_message_medic_0" : "在這個大廳，你只能使用醫療箱，如果你倒下",
+	"saveequipment_join_message_medic_1" : "次.",
+	
+	"saveequipment_try_message_notallowed" : "這不是在這個大堂."
+}

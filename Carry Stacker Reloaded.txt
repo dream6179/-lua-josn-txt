@@ -1,0 +1,32 @@
+{
+	"bltcs_options_menu_title" : "重裝推進",
+	"bltcs_options_menu_desc"  : "重裝推進選單",
+
+	"bltcs_button_help_title" : "幫助",
+	"bltcs_button_help_desc"  : "顯示幫助選單",
+
+	"bltcs_button_apply_title" : "應用",
+	"bltcs_button_apply_desc"  : "應用更改（回合數字）",
+
+	"bltcs_button_reset_title" : "重置",
+	"bltcs_button_reset_desc"  : "將數字重置為預設值",
+
+	"bltcs_toggle_host_sync_title" : "[室長]與客戶端同步設置",
+	"bltcs_toggle_host_sync_desc" : "如果您是主持人，請將您的設置發送給其他玩家",
+
+
+	"bltcs_slider_light_title" : "輕型包",
+	"bltcs_slider_light_desc" : "定義輕型包的移動懲罰",
+
+	"bltcs_slider_medium_title" : "中型包",
+	"bltcs_slider_medium_desc" : "定義中型包的移動懲罰",
+
+	"bltcs_slider_heavy_title" : "重型包",
+	"bltcs_slider_heavy_desc" : "定義重包的移動懲罰",
+
+	"bltcs_slider_veryheavy_title" : "非常重型包",
+	"bltcs_slider_veryheavy_desc" : "定義很重包的移動懲罰",
+
+	"bltcs_slider_megaheavy_title" : "重到靠北型包",
+	"bltcs_slider_megaheavy_desc" : "定義靠北重包的移動懲罰"
+}

@@ -1,0 +1,13 @@
+{
+	"waypointtweaks_menu_title" : "指示航點調整",
+	"waypointtweaks_menu_desc" : "配置航點調整",
+
+	"sld_waypointtweaks_duration_title" : "持續時間",
+	"sld_waypointtweaks_duration_desc" : "確定指示航點落在圍繞屏幕中心的軌道上所花費的時間，或者確定指示航點到達螢幕中心的時間，以秒為單位",
+
+	"sld_waypointtweaks_radius_title" : "軌道半徑",
+	"sld_waypointtweaks_radius_desc" : "確定所有指示航點將圍繞的螢幕中心的半徑",
+
+	"btn_waypointtweaks_reset_title" : "重置為預設值",
+	"btn_waypointtweaks_reset_desc" : "將所有選項重置為預設值"
+}

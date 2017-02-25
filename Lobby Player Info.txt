@@ -1,0 +1,72 @@
+{
+	"lpi_options_menu_title" : "大堂玩家信息",
+	"lpi_options_menu_desc"  : "更改大廳中顯示的信息",
+
+	"lpi_options_show_perkdeck_mode_title" : "顯示牌組",
+	"lpi_options_show_perkdeck_mode_desc"  : "顯示所選的牌組",
+	
+	"lpi_options_show_perkdeck_progression_title" : "顯示牌組的進度",
+	"lpi_options_show_perkdeck_progression_desc"  : "顯示牌組已經完成多少",
+
+	"lpi_options_hide_complete_perkdeck_progression_title" : "隱藏完整牌組的進展",
+	"lpi_options_hide_complete_perkdeck_progression_desc"  : "隱藏完全進度條或在牌組右側顯示（9/9）",
+
+	"lpi_options_show_perkdeck_progression_graphically_title" : "以圖形方式表示牌組進度",
+	"lpi_options_show_perkdeck_progression_graphically_desc"  : "使用進度條代替文本'(x/9)'",
+
+	"lpi_options_show_perkdeck_in_loadout_title" : "在載入屏幕中顯示牌組",
+	"lpi_options_show_perkdeck_in_loadout_desc"  : "在隊員設置選項卡中，用所選的牌組替換角色的名稱",
+
+	"lpi_options_show_skills_mode_title" : "顯示隊員技能",
+	"lpi_options_show_skills_mode_desc"  : "顯示每個玩家每個技能樹的技能點數",
+
+	"lpi_options_multi_show_mode_a" : "從不",
+	"lpi_options_multi_show_mode_b" : "滑鼠停放",
+	"lpi_options_multi_show_mode_c" : "總是",
+
+	"lpi_options_skills_layout_title" : "技能樹",
+	"lpi_options_skills_layout_desc"  : "水平：所有技能1行顯示，垂直：每種技能1行顯示",
+	"lpi_options_multi_skills_layout_a" : "水平",
+	"lpi_options_multi_skills_layout_b" : "垂直",
+
+	"lpi_options_skills_font_size_title" : "技能字體大小",
+	"lpi_options_skills_font_size_desc"  : "技能分配的字體大小",
+
+	"lpi_options_team_skills_mode_title" : "團隊技能",
+	"lpi_options_team_skills_mode_desc"  : "顯示團隊技能的概述",
+
+	"lpi_options_multi_team_skills_a" : "關",
+	"lpi_options_multi_team_skills_b" : "星星圖標",
+	"lpi_options_multi_team_skills_c" : "主要技能圖標",
+	"lpi_options_multi_team_skills_d" : "技能圖標",
+
+	"lpi_options_play_time_font_size_title" : "遊戲時間字體大小",
+	"lpi_options_play_time_font_size_desc"  : "在遊戲時間時字體大小",
+
+	"lpi_options_multi_font_size_a" : "小",
+	"lpi_options_multi_font_size_b" : "中",
+	"lpi_options_multi_font_size_c" : "大",
+	"lpi_options_multi_font_size_d" : "over大喔",
+
+	"lpi_options_skills_details_title" : "細節",
+	"lpi_options_skills_details_desc" : "啟用垂直技能時顯示的信息",
+
+	"lpi_options_multi_details_a" : "技能樹的點數",
+	"lpi_options_multi_details_b" : "技能樹子樹的點數",
+	"lpi_options_multi_details_c" : "全部",
+
+	"lpi_options_default_values_title" : "重製",
+	"lpi_options_default_values_desc"  : "全部重新調整",
+
+	"lpi_options_show_play_time_title" : "顯示遊戲時間",
+	"lpi_options_show_play_time_desc"  : "顯示其他玩家的遊戲時間（僅限公開個人資料）",
+
+	"lpi_options_keep_pre68_character_name_position_title" : "保留U68之前的名字",
+	"lpi_options_keep_pre68_character_name_position_desc"  : "將玩家的名字保留在Update 68之前",
+
+	"lpi_options_show_skills_in_stats_screen_title" : "在統計屏幕中顯示玩家的牌組和技能",
+	"lpi_options_show_skills_in_stats_screen_desc"  : "在遊戲過程中按TAB鍵時顯示統計屏幕",
+
+	"lpi_hours" : " 小時",
+	"lpi_team_skills" : "團隊技能",
+}

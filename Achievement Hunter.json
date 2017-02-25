@@ -1,0 +1,110 @@
+{
+	"menu_achihunter_mod_id": "更改成就獵人設置",
+	"menu_achihunter_mod_desc": "調整成就獵人設置。此模組允許您將大廳目標更改為某個成就。",
+
+		"item_achihunter_filter_desc": "通過預先指定的類型（戰利品，面具，隱形，特殊，選擇的起動等）過濾目標.",
+
+			"option_achihunter_filter_loot_id": "過濾:搶劫",
+			"option_achihunter_filter_masks_id_M": "過濾: 面具",
+			"option_achihunter_filter_stealth_id": "過濾: 隱形",
+			"option_achihunter_filter_speedrun_id": "過濾: 速度",
+			"option_achihunter_filter_items_id": "過濾: 收藏品",
+			"option_achihunter_filter_filtered_id": "過濾: 全部過濾",
+			"option_achihunter_filter_heist_id": "過濾: 選擇heist",
+			"option_achihunter_filter_disabled_id": "過濾: 沒有過濾器",
+			"option_achihunter_filter_sidejob_id": "過濾: Sidejobs",
+			"option_achihunter_filter_special_id": "過濾: 特別",
+			"option_achihunter_filter_escape_id": "過濾: 逃脫",
+			"option_achihunter_filter_event_id": "過濾: 事件",
+
+		"item_achihunter_order_desc": "按日期排序目標，按字母順序或完全隨機化.",
+
+			"option_achihunter_order_o2n_id": "排序：按日期 - 舊到新",
+			"option_achihunter_order_n2o_id": "排序：按日期 - 新到舊",
+			"option_achihunter_order_a2z_id": "排序：按字母 - 從A到Z",
+			"option_achihunter_order_z2a_id": "排序：按字母 - 從Z到A",
+			"option_achihunter_order_rng_id": "排序：隨機",
+
+		"item_achihunter_awarded_desc": "您可以加入，停用或排除已有的所有成就.",
+
+			"option_achihunter_awarded_include_id": "獲獎成就：包括",
+			"option_achihunter_awarded_disable_id": "獲獎成就：禁用",
+			"option_achihunter_awarded_exclude_id": "獲獎成就：排除",
+
+		"item_achihunter_dlc_id": "排除不可獲得的DLC成就",
+		"item_achihunter_dlc_desc": "排除所有需要購買的DLC完成的目標。\n不排除可獲得的DLC目標的免費/社區內容.",
+
+		"menu_achihunter_rewards_id": "選擇成就獎勵類型",
+		"menu_achihunter_rewards_desc": "根據所選獎勵類型過濾目標（無，面具，武器零件，面具定制等）.",
+
+			"item_achihunter_rewards_none_id_N": "沒有獎勵",
+			"item_achihunter_rewards_none_desc": "匹配沒有獎勵的所有目標.",
+
+			"item_achihunter_rewards_masks_id_M": "面具獎勵",
+			"item_achihunter_rewards_masks_desc": "匹配所有具有面具獎勵的目標.",
+
+			"item_achihunter_rewards_mods_id_W": "武器獎勵",
+			"item_achihunter_rewards_mods_desc": "匹配所有有武器和武器零件獎勵的目標.",
+
+			"item_achihunter_rewards_customize_id_C": "面具定制獎勵",
+			"item_achihunter_rewards_customize_desc": "匹配具有面具定制獎勵（材料和圖案）的所有目標.",
+
+			"item_achihunter_rewards_misc_id_X": "雜項獎勵",
+			"item_achihunter_rewards_misc_desc": "匹配具有雜項獎勵（角色，技能槽等）的所有目標，.",
+
+		"item_achihunter_keybind_id": "聲明目的要求",
+		"item_achihunter_keybind_desc": "當選擇目標時，更改鍵盤綁定以指定目的要求。按下鍵盤後，\n它將具有5秒冷卻時間，以防止聊天垃圾郵件。.",
+
+		"item_achihunter_cleanup_id": "達成後重置目標",
+		"item_achihunter_cleanup_desc": "在您獲獎後重置所選目標，合同完成，合同終止或新的大廳由您主持.",
+
+		"item_achihunter_list_id": "選擇大廳目標",
+		"item_achihunter_list_desc": "從列表中選擇新的大廳目標（預設過濾）。\n如果禁用此菜單，則沒有要列出的目標.",
+
+		"item_achihunter_reset_id": "重置目標",
+		"item_achihunter_reset_desc": "重置當前選定的目標.",
+
+		"item_achihunter_goto_id": "更多的選擇",
+		"item_achihunter_goto_desc": "顯示更多選項.",
+
+	"menu_achihunter_options_id": "成就獵人",
+	"menu_achihunter_options_desc": "更改成就獵人選項",
+
+		"item_achihunter_skip_highlight_id": "禁用大廳明亮顯示",
+		"item_achihunter_skip_highlight_desc": "不要突出在CrimeNet的明亮的成就獵人大廳.",
+
+		"item_achihunter_skip_popup_id": "禁用彈出通知",
+		"item_achihunter_skip_popup_desc": "加入CrimeNet中的大廳時不顯示彈出式通知。",
+
+		"item_achihunter_change_id": "使用所選目標作為大廳標題",
+		"item_achihunter_change_desc": "所選目標將用作CrimeNet中的大廳標題。這不會在其他任何地方更改主機名。",
+
+		"item_achihunter_color_scheme_id": "加載預設明亮顏色",
+		"item_achihunter_color_scheme_desc": "加載預設明亮顯示顏色方案進行編輯.",
+
+		"item_achihunter_friend_color_id": "朋友的顏色",
+		"item_achihunter_friend_color_desc": "更改朋友大廳突出顯示顏色方案.",
+
+		"item_achihunter_normal_color_id": "普通顏色",
+		"item_achihunter_normal_color_desc": "更改常規大廳突出顯示顏色方案.",
+
+		"item_achihunter_reset_all_id": "重置一切",
+		"item_achihunter_reset_all_desc": "重置一切（目標和選單設置）。",
+
+	"dialog_achihunter_confirmation_msg": "你確定？",
+	"dialog_achihunter_popup_msg": "大廳目標在此大廳中有效。\nAchievement: \"$title\"",
+
+	"dialog_achihunter_locked_msg": "解鎖：鎖定",
+	"dialog_achihunter_unlocked_msg": "解鎖：已解鎖",
+	"dialog_achihunter_no_unlocks_msg": "這個目標沒有解鎖.",
+
+	"dialog_achihunter_option_continue": "繼續",
+	"dialog_achihunter_option_yes": "是",
+	"dialog_achihunter_option_no": "否",
+
+	"chat_achihunter_text_is_welcome": "Hello! This lobby is for achievement hunters.\n你好！ 這個大廳是為成就獵人.",
+	"chat_achihunter_text_is_current": "We're trying to get \"$title\" achievement.\n我們正在努力獲得 \"$title\" 的成就.",
+	"chat_achihunter_text_is_awarded": "Congratulations, achievement was awarded!\n恭喜，成就獲獎！",
+	"chat_achihunter_text_is_reset": "Your previous lobby objective is reset.\n您之前的大廳目標已重置。",
+	"chat_achihunter_text_is_changed": "Lobby objective was changed by host.\n大廳目標被主人改變了。"
+}
