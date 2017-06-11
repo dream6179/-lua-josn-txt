@@ -1,0 +1,22 @@
+{
+	"mws_reload_partial"     : "部分填裝彈藥",
+	"mws_reload_full"        : "完全填裝彈藥",
+	"mws_ammo_pickup"        : "彈藥撿取",
+	"mws_falloff"            : "傷害衰弱",
+	"mws_accuracy_ads"       : "準度.鏡瞄",
+	"mws_accuracy_crouching" : "準度.蹲下",
+	"mws_accuracy_standing"  : "準度.站立",
+	"mws_recoil_horiz"       : "水平.後坐力",
+	"mws_recoil_vert"        : "垂直.後坐力",
+	"mws_equip_delay"        : "裝備延遲",
+	"mws_attack_delay"       : "攻擊延遲",
+	"mws_cooldown"           : "CD",
+	"mws_unequip_delay"      : "非裝備延遲",
+	
+	"mws_options_menu_title" : "更多武器統計",
+	"mws_options_menu_desc" : "",
+	"mws_options_show_dlc_info_title" : "顯示DLC信息",
+	"mws_options_show_dlc_info_desc" : "顯示使用武器所需的DLC",
+	"mws_options_show_spread_and_recoil_title" : "顯示擴散和後座力",
+	"mws_options_show_spread_and_recoil_desc" : "顯示用於擴散和後座力的實際值（角度）"
+}
