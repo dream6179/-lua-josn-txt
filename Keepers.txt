@@ -1,5 +1,5 @@
 {
-	"kpr_options_menu_title" : "守門員",
+	"kpr_options_menu_title" : "守護者",
 	"kpr_options_menu_desc"  : "所有關於變節警察的項目",
 
 	"kpr_options_filter_mode_title" : "過濾呼喊",
