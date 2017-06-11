@@ -1,0 +1,13 @@
+{
+  “link”：“raw.githubusercontent.com/dream6179/-lua-josn-txt/master/)”，
+  “list”：[
+    {
+      “名字”：“BLT”，
+      “tag”：“BLT.json”
+    }，
+    {
+      “名稱”：“中文化模組”
+      “tag”：“cht_WIP.json”
+    }
+  ]
+}
