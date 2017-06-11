@@ -1,0 +1,94 @@
+{
+    "WaveSurvived_compatibility_title" : "生存波選項",
+    "WaveSurvived_compatibility_desc" : "更改生存波的模組兼容性.",
+    "WaveSurvived_item_title" : "模組兼容性",
+    "WaveSurvived_item_desc" : "如果使用不同的HUD，則需要更改模組兼容性。否則，遊戲會崩潰。重新啟動遊戲，使遊戲生效.",
+
+    "WaveSurvived_language_title" : "語言",
+    "WaveSurvived_language_desc" : "更改模組的語言 - 重新啟動遊戲生效(全中文)。",
+    "WaveSurvived_language_english" : "英中文",
+    "WaveSurvived_language_french" : "法中文",
+    "WaveSurvived_language_russian" : "俄中文",
+    "WaveSurvived_language_italian" : "意中文",
+    "WaveSurvived_language_german" : "德中文",
+    "WaveSurvived_language_spanish" : "西中文",
+    "WaveSurvived_language_hungarian" : "匈中文",
+	"WaveSurvived_language_korean" : "韓中文",
+
+    "WaveSurvived_no_hud" : "無自定義HUD",
+    "WaveSurvived_holoui" : "HoloUI",
+    "WaveSurvived_restoration" : "Restoration Mod",
+    "WaveSurvived_pdthhud" : "PDTH Hud",
+    "WaveSurvived_lddghud" : "LDDG Hud",
+
+    "WaveSurvived_duration_title" : "持續時間",
+    "WaveSurvived_duration_desc" : "選擇生存波橫幅的持續時間。 與Restoration Mod不兼容.",
+
+    "WaveSurvived_duration_original" : "原版的 (8.6 sec)",
+    "WaveSurvived_duration_15sec" : "15 sec",
+    "WaveSurvived_duration_20sec" : "20 sec",
+    "WaveSurvived_duration_25sec" : "25 sec",
+    "WaveSurvived_duration_infinite" : "無窮",
+
+    "WaveSurvived_customtext_title" : "自定義橫幅(WE)",
+    "WaveSurvived_customtext_desc" : "自定義生存波橫幅的文本。 只兼容預設，HoloUI和Restoration Mod.",
+
+    "WaveSurvived_customtext_1" : "生存波",
+    "WaveSurvived_customtext_2" : "生存",
+    "WaveSurvived_customtext_3" : "突擊生存",
+    "WaveSurvived_customtext_4" : "突擊終止",
+    "WaveSurvived_customtext_5" : "還沒結束！",
+
+    "WaveSurvived_custompanelcolor_title" : "自定義面板顏色",
+    "WaveSurvived_custompanelcolor_desc" : "自定義波生存面板顏色。不兼容HoloUI。",
+
+    "WaveSurvived_custompanelcolor_1" : "青綠色(預設)",
+    "WaveSurvived_custompanelcolor_2" : "黃色",
+    "WaveSurvived_custompanelcolor_3" : "紅色",
+    "WaveSurvived_custompanelcolor_4" : "青藍色",
+    "WaveSurvived_custompanelcolor_5" : "橘色",
+    "WaveSurvived_custompanelcolor_6" : "自定義",
+
+    "WaveSurvived_custompanelcolor_customslider_red_title" : "紅(WE)",
+    "WaveSurvived_custompanelcolor_customslider_red_desc" : "紅色量（RGB格式）",
+    "WaveSurvived_custompanelcolor_customslider_green_title" : "綠(WE)",
+    "WaveSurvived_custompanelcolor_customslider_green_desc" : "綠色量（RGB格式）",
+    "WaveSurvived_custompanelcolor_customslider_blue_title" : "藍(WE)",
+    "WaveSurvived_custompanelcolor_customslider_blue_desc" : "藍色量（RGB格式）",
+
+	"WaveSurvived_custompanelcolor_endless_title" : "自定義顏色(EW)",
+    "WaveSurvived_custompanelcolor_endless_desc" : "定制無限波面板顏色.",
+
+    "WaveSurvived_custompanelcolor_endless_1" : "紅色(預設)",
+    "WaveSurvived_custompanelcolor_endless_2" : "黃色",
+    "WaveSurvived_custompanelcolor_endless_3" : "青綠色",
+    "WaveSurvived_custompanelcolor_endless_4" : "青色",
+    "WaveSurvived_custompanelcolor_endless_5" : "橘色",
+    "WaveSurvived_custompanelcolor_endless_6" : "自定義",
+	
+    "WaveSurvived_custompanelcolor_endless_customslider_red_title" : "紅(EW)",
+    "WaveSurvived_custompanelcolor_endless_customslider_red_desc" : "無限波紅色量（RGB格式）",
+    "WaveSurvived_custompanelcolor_endless_customslider_green_title" : "綠(EW)",
+    "WaveSurvived_custompanelcolor_endless_customslider_green_desc" : "無限波綠色量（RGB格式）",
+    "WaveSurvived_custompanelcolor_endless_customslider_blue_title" : "藍(EW)",
+    "WaveSurvived_custompanelcolor_endless_customslider_blue_desc" : "無限波藍色量（RGB格式）",
+   
+    "WaveSurvived_endless_customtext_title" : "自定義橫幅(EW)",
+    "WaveSurvived_endless_customtext_desc" : "自定義無限波橫幅的文字.",
+
+    "WaveSurvived_endless_customtext_1" : "這波無限突擊中",
+    "WaveSurvived_endless_customtext_2" : "在無止盡突擊中",
+    "WaveSurvived_endless_customtext_3" : "無限突擊",
+    "WaveSurvived_endless_customtext_4" : "這將不會結束",
+	
+	
+    "WaveSurvived_alert_compatibility_title" : "生存波:兼容性警報",
+    "WaveSurvived_alert_compatibility_message" : "看來你在模組選項中使用錯誤的兼容性模組,或者這是您第一次使用此模組啟動遊戲.\n\nWave Survived兼容性設置已更改.",
+    "WaveSurvived_alert_compatibility_button_ok" : "好",
+
+    "WaveSurvived_enable_checks_title" : "啟用自動檢查",
+    "WaveSurvived_enable_checks_desc" : "勾選在啟動時需要自動更改您的HUD兼容性."
+	
+    "WaveSurvived_custompanelcolor_website_title" : "RGB顏色網站",
+    "WaveSurvived_custompanelcolor_website_desc" : "這將打開一個網站，以幫助您選擇一種精確的RGB格式的顏色。 需要啟用Steam overlay."
+}
