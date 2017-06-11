@@ -1,0 +1,10 @@
+{
+    "cc_converter_menu" : "CC_轉換器",
+    "cc_converter_menu_desc" : "使用海外帳戶來購買歐洲幣",
+    "cc_converter_convert1" : "買一個歐洲幣.",
+    "cc_converter_convert1_desc" : "預設的匯率是海外$25,000,000(兩千五百萬)一個.",
+    "cc_converter_convert2" : "花費海外$100,000,000(一億).",
+    "cc_converter_convert2_desc" : "預設的匯率是海外$25,000,000(兩千五百萬)一個.",
+    "cc_converter_convert3" : "花費海外$1,000,000,000(十億).",
+    "cc_converter_convert3_desc" : "預設的匯率是海外$25,000,000(兩千五百萬)一個."
+}

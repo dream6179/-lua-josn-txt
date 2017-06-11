@@ -1,0 +1,17 @@
+{
+	"menu_velosync" : "VELOSync",
+	"menuvs_desc" : "更改外殼速度",
+	"vs_keybind" : "Engage 快速反同步",
+	"vs_keybind_desc" : "通過按下按鈕解決非常嚴重的不同步",
+	"vs_husk_default" : "預設外殼速度",
+	"vs_husk_default_desc" : "預設情況下，最大速度外殼可能移動",
+	"vs_husk_fast" : "快速殼速度",
+	"vs_husk_fast_desc" : "使用FastAntiDesync時，最大速度外殼可能移動",
+	"vs_pingbased" : "基於Ping的動態調整2",
+	"vs_pingbased_desc": "dd, 可能會導致奇怪的運動動畫",
+	"vs_nodcf_warning_title": "VELOSync - Warning",
+	"vs_nodcf_warning_text": "未安裝DelayedCallsFix, 動態調整和FastAntiDesync被禁用.",
+	"vs_start_fad": "快速AntiDesync參與",
+	"vs_end_fad": "已解析",
+	"vs_err_fad": "使用此函數需要DelayedCallsFix"
+}
